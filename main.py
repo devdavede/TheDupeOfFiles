@@ -1,3 +1,4 @@
+# The Dupe 👑 of files #
 import os
 import subprocess
 import magic
